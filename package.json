@@ -1,0 +1,22 @@
+{
+  "name": "pei-one-off-scripts",
+  "version": "1.0.0",
+  "description": "One off to create foreign keys for zephr users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piotr Dankowski",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.5.1",
+    "eslint": "^8.4.1"
+  },
+  "dependencies": {
+    "@pei-media/pei-config": "^1.0.7",
+    "axios": "^0.24.0",
+    "crypto": "^1.0.1",
+    "lodash": "^4.17.21",
+    "superagent": "^7.1.1"
+  }
+}
